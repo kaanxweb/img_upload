@@ -81,5 +81,5 @@ class image_upload
     } //END multi upload function
 
 
-} //END image upload CLASS.
+} //END image upload CLASS
 ?>
