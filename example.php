@@ -1,5 +1,8 @@
 <?php
 
+//Wait! First Create uploads directory
+
+
 if (isset($_FILES)){
     require_once 'class.php';
     $img_upload = new image_upload();
